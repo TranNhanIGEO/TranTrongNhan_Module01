@@ -1,0 +1,14 @@
+D:\Learn_C#_KHTN\TranTrongNhan\bin\Debug\net7.0\TranTrongNhan.exe
+D:\Learn_C#_KHTN\TranTrongNhan\bin\Debug\net7.0\TranTrongNhan.deps.json
+D:\Learn_C#_KHTN\TranTrongNhan\bin\Debug\net7.0\TranTrongNhan.runtimeconfig.json
+D:\Learn_C#_KHTN\TranTrongNhan\bin\Debug\net7.0\TranTrongNhan.dll
+D:\Learn_C#_KHTN\TranTrongNhan\bin\Debug\net7.0\TranTrongNhan.pdb
+D:\Learn_C#_KHTN\TranTrongNhan\obj\Debug\net7.0\TranTrongNhan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_C#_KHTN\TranTrongNhan\obj\Debug\net7.0\TranTrongNhan.AssemblyInfoInputs.cache
+D:\Learn_C#_KHTN\TranTrongNhan\obj\Debug\net7.0\TranTrongNhan.AssemblyInfo.cs
+D:\Learn_C#_KHTN\TranTrongNhan\obj\Debug\net7.0\TranTrongNhan.csproj.CoreCompileInputs.cache
+D:\Learn_C#_KHTN\TranTrongNhan\obj\Debug\net7.0\TranTrongNhan.dll
+D:\Learn_C#_KHTN\TranTrongNhan\obj\Debug\net7.0\refint\TranTrongNhan.dll
+D:\Learn_C#_KHTN\TranTrongNhan\obj\Debug\net7.0\TranTrongNhan.pdb
+D:\Learn_C#_KHTN\TranTrongNhan\obj\Debug\net7.0\TranTrongNhan.genruntimeconfig.cache
+D:\Learn_C#_KHTN\TranTrongNhan\obj\Debug\net7.0\ref\TranTrongNhan.dll
